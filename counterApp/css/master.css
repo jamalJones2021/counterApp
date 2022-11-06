@@ -1,0 +1,17 @@
+* {
+  font-family: 'Orbitron', sans-serif;
+}
+
+button{
+  border-radius: 5px;
+  color: #8cf4e2;
+  background: black
+}
+
+header {
+  text-align: center;
+}
+
+#counter{
+  font-size: 90px;
+}
